@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="styles.css">
+    <meta property="og:image" content="assets/banner.jpg">
+    <link rel="shortcut icon" href="assets/logo.png" type="image/x-icon">
+    <title>RED Token</title>
+</head>
+
+<header >
+        <div class="img">
+            <img src="assets/logo.png" alt="">
+        </div>
+        <div class="page-items">
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#roadmap">Roadmap</a>
+            <a href="#contact">Contact</a>
+        </div>
+        <div class="buy">
+            <a href="#htb">How To Buy</a>
+        </div>
+
+</header>
+    <section class="home" id="home">
+        <div class="container">
+            <h1>Welcome To <b>RED</b> And His Daring Journey </h1>
+            <h3>
+                Introducing the Red Token - Born from the vision of Ryoshi, this token stands for decentralization and unity. In a world where greed has eroded the essence of many systems, Red Token symbolizes the drive towards a truly decentralized and self-sustaining community.
+            </h3>
+            <div class="contract-buy">
+                <h2><b>CA :</b><strong>0xE1240ac7Bb51333510cbF37efD678cA46137f84B</strong></h2>
+                <div class="btns">
+                    <div onclick="window.open('https://app.uniswap.org/swap?outputCurrency=0xE1240ac7Bb51333510cbF37efD678cA46137f84B')">Buy</div>
+                    <div onclick="window.open('https://www.dextools.io/app/en/ether/pair-explorer/0x86612ead4493c1f72bff66a686a481a379832ca5')">View Chart</div>
+                </div>
+            </div>
+
+        </div>
+        <img src="assets/small.png" alt="">
+    </section>
+    
+    <section class="spacing"></section>
+    <section class="about" id="about">
+        <h1 class="title">About :</h1>
+        <div class="container">
+            <img src="assets/why-frogy.png" alt="">
+            
+            <div class="txt">
+                <h2>
+                    Why Buy <b>$RED</b>
+                </h2>
+                <h3>
+                    
+Red Token embodies Ryoshi's vision for a decentralized world, countering the profit-driven era's concentration of power. Rooted in the Shiba community, we champion decentralization and self-sustainability, uniting supporters from all walks of life in a common purpose: restoring the spirit of true decentralization for a brighter, fairer future. Join us on this promising journey.
+                </h3>
+            </div>
+        </div>
+    </section>
+    <section class="roadmap" id="roadmap">
+        <h1 class="title">Roadmap :</h1>
+            <div class="roadmap_card">
+                <h2>Phase 01:</h2>
+                <div>
+                    <i>Community Building</i>
+                    <i>CoinGecko/CoinMarketCap Applied</i>
+                    <i>Whitepaper release</i>
+                    <i>Red Token Buy Bot / Red Token AI Bot</i>
+                    <i>Press Articles</i>
+            </div>
+            </div>
+            <div class="roadmap_card">
+                <h2>Phase 02:</h2>
+                <div>
+                    <i>Website V2</i>
+                    <i>Charity events</i>
+                    <i>Social media are verified</i>
+            </div>
+            </div>
+            <div class="roadmap_card">
+                <h2>Phase 03:</h2>
+                <div>
+                    <i>Website v3</i>
+                    <i>1-5k+ holders</i>
+                    <i>More things building and will be dropped in website v2</i>
+
+            </div>
+            </div>
+    </section>
+    <section class="tokenomics">
+        <h1 class="title">Tokenomics</h1>
+        <div class="container">
+
+        <div class="section">
+          <h2>Total Supply</h2>
+          <p>The total supply of <b>$RED</b> tokens is <b>750,460.2</b></p>
+        </div>
+        
+        <div class="section">
+          <h2>Distribution</h2>
+          <table class="tokenomics-table">
+            <tbody><tr>
+              <th>Tokenomic</th>
+              <th>Percentage</th>
+            </tr>
+            <tr>
+                <td>Presale, Team Tokens</td>
+                <td><b>0%</b></td>
+            </tr>
+            <tr>
+              <td>Liquidity Burned</td>
+              <td><b>100%</b></td>
+            </trW>
+            <tr>
+              <td>Tax</td>
+              <td><b>0%</b></td>
+            </tr>
+
+          </tbody></table>
+        </div>
+        
+        <div class="section">
+            <h2>Join the <b>$RED</b> community</h2>
+            <p>The journey towards greater decentralization has just begun</p>
+        </div>
+
+      </div>
+</section>
+    
+    
+    
+    
+    <section class="howtobuy" id="htb">
+        <h1 class="title">How To Buy :</h1>
+        <div class="container">
+            <div class="container_">
+                <div class="icon _1"></div>
+                <div id="step1">
+                    <h2>Get A Wallet</h2>
+                    <p>Grab MetaMask or another wallet from the app store. Desktop users, head to metamask.io.</p>
+                </div>
+            </div>
+            <div class="container_">
+                <div class="icon _2"></div>
+                <div id="step2">
+                    <h2>Grab some ETH</h2>
+                    <p>You'll need ETH to swap for <b>$RED</b>. Get some on MetaMask or your favorite exchange.</p>
+                </div>
+            </div>
+            <div class="container_">
+                <div class="icon _3"></div>
+                <div id="step3">
+                    <h2>Go to Uniswap</h2>
+                    <p>Connect at app.uniswap.org, link your wallet, and input the contract address for <b>$RED</b></p>
+                </div>
+            </div>
+            <div class="container_">
+                <div class="icon _4"></div>
+                <div id="step4">
+                    <h2>Swap ETH for <b>$RED</b></h2>
+                    <p>Turn your ETH into <b>$RED</b> and set your slippage right, especially when the market's wild.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="contact" style="margin-top: 100px;" id="contact">
+        <div class="container__">
+            <button class="btn" onclick="window.open('https://t.me/portalRedTokenn')"><i class="bi bi-telegram"></i>Telegram</button>
+            <button class="btn" onclick="window.open('https://twitter.com/REDSHIBAERC')"><i class="bi bi-twitter"></i>Twitter</button>
+        <div class="txt"><p>Join us and join our fun and enthusiastic community . We firmly believe that RED will deserve a place in the hearts of investors. <br>Come on RED, the goal of reviving the Memecoin market will not be far away.</p></div>
+        </div>
+</section>
+<marquee style="height: 10vmin;width: 100%;display: flex;justify-content: center;align-items: center;flex-wrap: nowrap;background-color: rgb(235, 161, 50);border-block:7px white solid  ;">
+    <h2> Constact Us At : <b><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="1b697e7f6f74707e757e69785b7c767a727735787476">[email&#160;protected]</a></b> | All Rights Reserved To Red Token (2023-2024)</h2>
+</marquee>
+</body>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></html>
