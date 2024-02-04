@@ -246,16 +246,16 @@ b {
   filter: drop-shadow(0 0 30px rgba(236, 236, 236, 0.5));
 }
 ._1 {
-  background: white url("assets/metamask-icon.png");
+  background: white url("assets/PHT.png");
 }
 ._2 {
-  background: white url("assets/eth.png");
+  background: white url("assets/sol\ \(1\).png");
 }
 ._3 {
-  background: white url("assets/uniswap.png");
+  background: white url("assets/rd.png");
 }
 ._4 {
-  background: white url("assets/swap-for-noface.png");
+  background: white url("assets/logo.png");
 }
 .howtobuy .container .container_ {
   margin-block: 30px;
